@@ -1,0 +1,38 @@
+div {
+	padding: 30px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	color: #EEEEEE;
+}
+
+.center {
+	text-align: center;
+}
+
+.introduction {
+	background-color: #8a9bb5;
+}
+
+.main-content {
+	background-color: #587187;
+}
+
+.contact-us {
+	background-color: #445770;
+}
+
+.product-backdrop {
+	background-color: #a39889;
+	padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.product {
+	color: #3f4238;
+}
+
+.li {
+	padding: 10px;
+	margin: 10px;
+}
