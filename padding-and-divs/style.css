@@ -1,8 +1,18 @@
+body {
+	background-color: #F1E8CB;
+}
+
+#sunny-title {
+	color: #4E4A40 ;
+}
 div {
 	padding: 30px;
 	margin-bottom: 10px;
 	border-radius: 5px;
-	color: #EEEEEE;
+	color: #F5F0F0;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-weight: 800;
+	font-size: 23px;
 }
 
 .center {
@@ -10,29 +20,48 @@ div {
 }
 
 .introduction {
-	background-color: #8a9bb5;
+	background-color: #877F58;
 }
 
 .main-content {
-	background-color: #587187;
+	background-color: #868659;
 }
 
 .contact-us {
-	background-color: #445770;
+	background-color: #6A6A50;
 }
 
 .product-backdrop {
-	background-color: #a39889;
+	background-color: #A0A06C;
 	padding: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
 }
 
 .product {
-	color: #3f4238;
+	color: #36272E;
 }
+
+div .lighten {
+	color: #BABABA;
+	font-size: 19px;
+	}
 
 .li {
 	padding: 10px;
 	margin: 10px;
+}
+
+.in-stock {
+	color: green;
+	font-weight: 900;
+}
+
+.out-of-stock {
+	color: red;
+	font-weight: 900;
+}
+
+.emphasize {
+	font-weight: 900;
 }
